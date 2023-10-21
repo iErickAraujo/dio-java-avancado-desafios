@@ -1,0 +1,10 @@
+# Variáveis de ambiente para o banco de dados
+spring:
+  datasource:
+    url: jdbc:postgresql://${PGHOST}:${PGPORT}/${PGDATABASE}
+    username: ${PGUSER}
+    password: ${PGPASSWORD}
+  jpa:
+    open-in-view: false
+    hibernate:
+      ddl-auto: create # Quando rodar na primeira vez, use 'create' ou 'validate'

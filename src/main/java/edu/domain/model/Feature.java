@@ -1,7 +1,8 @@
 package edu.domain.model;
 
-import jakarta.persistence.Entity;
+import javax.persistence.*;
+
 @Entity(name = "tb_feature")
 public class Feature extends BaseItem {
-            
+
 }
