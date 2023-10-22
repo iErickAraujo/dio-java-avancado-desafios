@@ -1,4 +1,14 @@
-"# dio-java-avancado-desafios" 
+# dio-java-avancado-desafios
+
+Repositório para armazenar os desafios do curso de Java Avançado da DIO.
+
+[Desafio API REST Usando Spring Boot 3, Java 17] - Projeto desenvolvido como parte do desafio API REST na Nuvem Usando Spring Boot 3, Java 17, Railway, Spring Data JPA, H2 Database e OpenAPI.
+
+[Observações] - Projeto para fins de aprendizado.
+
+Deu algum B.O (Tenho que descobrir oque) -> Provisionando o PostgreSQL (Railway) e Criando o Perfil de PRD.
+
+Deploy da API na Nuvem (Railway)(Não tive tempo de chegar nesta parte).
 
 
 ##Diagrama de Classes
