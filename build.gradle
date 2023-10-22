@@ -21,11 +21,9 @@ dependencies {
 	//OpenAPI
 	implementation 'org.springdoc:springdoc-openapi-starter-webmvc-ui:2.1.0'
     // implementation 'org.springdoc:springdoc-openapi-starter-webmvc-ui:1.5.9' // Use a versão adequada do Springdoc
-    // implementation 'org.postgresql:postgresql' // PostgreSQL
-
+    implementation 'org.postgresql:postgresql' // PostgreSQL
     runtimeOnly 'com.h2database:h2'
-runtimeOnly 'org.postgresql:postgresql'
-
+    runtimeOnly 'org.postgresql:postgresql'
     testImplementation 'org.springframework.boot:spring-boot-starter-test'
 }
 
