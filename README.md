@@ -1,4 +1,4 @@
-"# dio-java-avancado-desafios" 
+# dio-java-avancado-desafios
 
 Repositório para armazenar todo o conteúdo do curso de Java Avançado.
 
