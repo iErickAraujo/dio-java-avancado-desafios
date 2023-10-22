@@ -1,6 +1,8 @@
 # dio-java-avancado-desafios
 
-Repositório para armazenar todo o conteúdo do curso de Java Avançado.
+Repositório para armazenar os desafios do curso de Java Avançado da DIO.
+
+[Desafio API REST Usando Spring Boot 3, Java 17] - Projeto desenvolvido como parte do desafio API REST na Nuvem Usando Spring Boot 3, Java 17, Railway, Spring Data JPA, H2 Database e OpenAPI.
 
 [Observações] - Projeto para fins de aprendizado.
 
